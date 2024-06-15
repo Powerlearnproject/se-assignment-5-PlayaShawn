@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XoLGRbHq)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15260700&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-5
 Installation and Navigation of Visual Studio Code (VS Code)
  Instructions:
@@ -9,22 +11,29 @@ Answer the following questions based on your understanding of the installation a
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 
 2. First-time Setup:
-   - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+   - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extension
+
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
+     
 
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
 
+
+
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
 
+
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
+
+
 
 8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
