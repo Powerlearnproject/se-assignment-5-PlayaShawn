@@ -126,7 +126,7 @@
 
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
-    
+
     Initializing a Repository:
       Open the Source Control view by clicking the Source Control icon in the Activity Bar or pressing Ctrl+Shift+G.
       Click Initialize Repository.
@@ -134,11 +134,11 @@
     Making Commits:
       Stage changes by clicking the + icon next to the files.
       Enter a commit message and click the checkmark icon to commit.
-      ![alt text](image.png)
+      ![alt text](Commits.png)
 
     Pushing Changes to GitHub:
       Ensure you have a remote repository set up on GitHub.
-      ![alt text](image.png)
+      ![alt text](Push.png)
 
     Add the remote repository:
       git remote add origin https://github.com/your-username/your-repository.git
